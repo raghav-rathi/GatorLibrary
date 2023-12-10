@@ -1,5 +1,5 @@
-InsertBook(101, "Introduction to Algorithms", "Thomas H. Cormen", "Yes")
-InsertBook(48, "Data Structures and Algorithms", "Sartaj Sahni", "Yes")
+InsertBook(101, "IntroductiontoAlgorithms", "Thomas H. Cormen", "Yes")
+InsertBook(48, "DataStructuresandAlgorithms", "SartajSahni", "Yes")
 InsertBook(132, "Operating System Concepts", "Abraham Silberschatz", "Yes")
 InsertBook(25, "Computer Networks", "Andrew S. Tanenbaum", "Yes")
 BorrowBook(120, 48, 2)
